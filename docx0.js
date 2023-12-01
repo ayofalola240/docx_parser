@@ -64,6 +64,8 @@ module.exports = {
       $('style').remove();
       $('*')
         .removeAttr('style')
+        .removeAttr('start')
+        .removeAttr('type')
         .removeAttr('lang')
         .removeAttr('class')
         .removeAttr('dir')
@@ -172,7 +174,7 @@ async function processJSON(inputJson) {
       };
     }
   });
-  return resultArray;
+  // return resultArray;
 
   const res = await processQuestions(resultArray);
   return res;
@@ -199,18 +201,20 @@ async function processQuestions(inputArray) {
       key.toLowerCase().includes('passage'),
     );
     // Initialize the passage variable
-    let passage = '';
 
     // If the questionObj has keys containing 'PASSAGE', extract the passage text
     if (hasPassage) {
-      const passageRegex = /^.*?(?=\d+\.\t)/s;
-
+      const passageRegex = /<p><b>(.*?)<\/p>(?=(?:<p>\d+\.))/s;
       const passageMatch = questionText.match(passageRegex);
-
       if (passageMatch) {
-        passage = passageMatch[0].trim();
-        // passage = replaceLabels(passage);
+        let passage = passageMatch[0].trim();
+        // Replace the last occurrence of <p> with an empty string
+        passage = passage.replace(/<p>(?=[^<]*\d+\.)/s, '');
+        // console.log(passage);
         PASSAGES[questionKey] = passage;
+
+        // Remove the passage text from the question text
+        questionText = questionText.replace(passage, '').trim();
       } else {
         console.log('Regex did not match for the following text:');
       }
