@@ -1,0 +1,750 @@
+[
+  {
+    "type": "passage",
+    "groupType": 1,
+    "instruction": "Read the passage below and answer the question that follows.        Dolphins are regarded as the friendliest creatures in the sea and stories of them helping drowning sailors have been common since Roman times.  The more we learn about dolphins, the more we realize that their society is more complex than people previously imagined. They look after other dolphins when they are ill, care for pregnant mothers and protect the weakest in the community, as we do.         Some scientists have suggested that dolphins have a language but it is much more probable that they communicate with each other without needing words.  Could any of these mammals be more intelligent than man?  Certainly, the most common argument in favour of man�s superiority over them that we can kill them more easily than they can kill us is the least satisfactory.  On the contrary, the more we discover about these remarkable creatures, the less we appear superior when we destroy them.",
+    "subTopic": "PASSAGE I",
+    "items": [
+      {
+        "question": "From the passage it can be deduced that Dolphins are",
+        "options": [
+          { "option": "more intelligent than man", "returnValue": "igzam1" },
+          { "option": "subservient to man", "returnValue": "igzam2" },
+          { "option": "always in contact with sailors", "returnValue": "igzam3" },
+          { "option": "friendly with scientists", "returnValue": "igzam4" }
+        ]
+      },
+      {
+        "question": "The view held by some scientist that Dolphins have a language is",
+        "options": [
+          { "option": "experimental", "returnValue": "igzam1" },
+          { "option": "hypothetical", "returnValue": "igzam2" },
+          { "option": "factual", "returnValue": "igzam3" },
+          { "option": "misleading", "returnValue": "igzam4" }
+        ]
+      }
+    ]
+  },
+  {
+    "type": "passage",
+    "groupType": 2,
+    "instruction": "Read the passage carefully and answer the question that follows.A serious attack on the problem of poverty and intolerable disparities of health demand a change in the whole direction of world economic activity. Instead of maximizing wealth, effort should be directed towards the creation of reasonable standard of living for all people. This applies to the rich and the poor. Nations which are already wealthy have to accept that they are members of the world�s resources but no more. They should not expect to continue to deal with problem of comparative poverty within their own nation at the expense of people abroad who are poorer than their poorest. And the poor nations have to face facts too. They need to stop trying to ape the rich. They have to accept that the closing the gap does not mean and cannot mean attaining for themselves a western style or level of consumption.Adapted from Otuikpe, B. O. et al (2005)Intensive English for Secondary Schools, Book 3, Onitsha; AFP.",
+    "subTopic": "PASSAGE II",
+    "items": [
+      {
+        "question": "The author�s advice on the problem of poverty is",
+        "options": [
+          { "option": "to embark on more fruitful investment", "returnValue": "igzam1" },
+          { "option": "restyling of attitudes to it", "returnValue": "igzam2" },
+          { "option": "borrowing money from rich nations", "returnValue": "igzam3" },
+          { "option": "to avoid importation of goods.", "returnValue": "igzam4" }
+        ]
+      },
+      {
+        "question": "According to the passage, poor nations should",
+        "options": [
+          { "option": "stop depending on richer nations", "returnValue": "igzam1" },
+          { "option": "stop copying the richer nations", "returnValue": "igzam2" },
+          { "option": "strictly reject western styles", "returnValue": "igzam3" },
+          { "option": "be more productive.", "returnValue": "igzam4" }
+        ]
+      }
+    ]
+  },
+  {
+    "type": "passage",
+    "groupType": 3,
+    "instruction": "Read the following passage carefully and answer the question that follows. Passage I �Biocell�, the new power supply, had a liquid fuel containing tiny forms of life that changed the fuel directly into electric energy. This was for more investing experiment. The biocell is being developed as producer of electricity for radios, for signals to guide ships, for lighting and for other uses. Though the working biocell is only a few years old, some scientists feel that it will one day produce power cheaply as is now being done by other methods, and that the biocell will use materials that would otherwise be considered a waste. Early biocells were powered with sugar but a wide range of fuels can be used. Work is being done using sea water to feed the bacteria.",
+    "subTopic": "PASSAGE III",
+    "items": [
+      {
+        "question": "It can be deduced from the passage that the author is",
+        "options": [
+          { "option": "apologetic about the prospect of science", "returnValue": "igzam1" },
+          { "option": "apathetic towards the prospect of science", "returnValue": "igzam2" },
+          { "option": "enthusiastic over the prospect of science", "returnValue": "igzam3" },
+          { "option": "skeptical about the prospect of science", "returnValue": "igzam4" }
+        ]
+      },
+      {
+        "question": "Which of the following is true according to the passage?",
+        "options": [
+          {
+            "option": "Scientists felt that biocells would produce very costly energy",
+            "returnValue": "igzam1"
+          },
+          {
+            "option": "Biocells charged the fuel directly to produce tiny forms of energy",
+            "returnValue": "igzam2"
+          },
+          {
+            "option": "Sugar and fuel were initially used as sources of energy for biocells",
+            "returnValue": "igzam3"
+          },
+          {
+            "option": "Biocells were forms of power used by all scientists lately",
+            "returnValue": "igzam4"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "type": "passage",
+    "groupType": 4,
+    "instruction": "Read the following passage carefully and answer the question that follows.Recent literary researches reveal that Nigerians hardly have time to read. In essence, the reading culture in Nigeria is now at a low ebb. It is disturbing, however, that the few Nigerians that read concentrate more on foreign books than indigenous productions. Most Nigerian authors of novels, storybooks, fictions and non-fiction series have decried, on different occasions, their woes. They were bitter at the way most owners of bookshops and publishers treat them. The question that bothers most Nigerian authors is why are Nigerians not according them such recognition in their own country, while their overseas counterparts are being rewarded with great international honours?",
+    "subTopic": "Passage IV",
+    "items": [
+      {
+        "question": "It can be inferred from the passage that",
+        "options": [
+          { "option": "Nigerians have access to foreign books only", "returnValue": "igzam1" },
+          { "option": "Nigerians do not read international books", "returnValue": "igzam2" },
+          {
+            "option": "Nigerians read foreign and indigenous books alike",
+            "returnValue": "igzam3"
+          },
+          { "option": "Nigerians mostly read foreign books", "returnValue": "igzam4" }
+        ]
+      },
+      {
+        "question": "The word honours, as used in the passage, means",
+        "options": [
+          { "option": "compliments", "returnValue": "igzam1" },
+          { "option": "fellowships", "returnValue": "igzam2" },
+          { "option": "associations", "returnValue": "igzam3" },
+          { "option": "leagues", "returnValue": "igzam4" }
+        ]
+      }
+    ]
+  },
+  {
+    "type": "question",
+    "groupType": 5,
+    "instruction": "",
+    "subTopic": "Choose the option that is opposite in meaning to the word in italics.",
+    "items": [
+      {
+        "question": "His mother advised him not to travel but he remained obdurate.",
+        "options": [
+          { "option": "unyielding", "returnValue": "igzam1" },
+          { "option": "submissive", "returnValue": "igzam2" },
+          { "option": "energetic", "returnValue": "igzam3" },
+          { "option": "adamant", "returnValue": "igzam4" }
+        ]
+      },
+      {
+        "question": "Like poverty, affluence can sometimes create its own problem.",
+        "options": [
+          { "option": "indigence", "returnValue": "igzam1" },
+          { "option": "opulence", "returnValue": "igzam2" },
+          { "option": "sorrow", "returnValue": "igzam3" },
+          { "option": "exuberance", "returnValue": "igzam4" }
+        ]
+      },
+      {
+        "question": "Her husband was impressed with her solicitude for their sick child.",
+        "options": [
+          { "option": "love for", "returnValue": "igzam1" },
+          { "option": "indifference to", "returnValue": "igzam2" },
+          { "option": "kindness to", "returnValue": "igzam3" },
+          { "option": "wickedness to", "returnValue": "igzam4" }
+        ]
+      }
+    ]
+  },
+  {
+    "type": "question",
+    "groupType": 6,
+    "instruction": "",
+    "subTopic": "Choose the option that is nearest in meaning to the word in italics.",
+    "items": [
+      {
+        "question": "Her motives have been scrutinized and impugned",
+        "options": [
+          { "option": "regulated", "returnValue": "igzam1" },
+          { "option": "exploited", "returnValue": "igzam2" },
+          { "option": "manipulated", "returnValue": "igzam3" },
+          { "option": "challenged", "returnValue": "igzam4" }
+        ]
+      },
+      {
+        "question": "The accident victims are recuperating.",
+        "options": [
+          { "option": "reuniting", "returnValue": "igzam1" },
+          { "option": "retiring", "returnValue": "igzam2" },
+          { "option": "relaxing", "returnValue": "igzam3" },
+          { "option": "recovering", "returnValue": "igzam4" }
+        ]
+      },
+      {
+        "question": "He is always pellucid no matter the condition.",
+        "options": [
+          { "option": "happy", "returnValue": "igzam1" },
+          { "option": "humble", "returnValue": "igzam2" },
+          { "option": "transparent", "returnValue": "igzam3" },
+          { "option": "vocal", "returnValue": "igzam4" }
+        ]
+      }
+    ]
+  },
+  {
+    "type": "question",
+    "groupType": 7,
+    "instruction": "",
+    "subTopic": "Choose the option that best explains the information conveyed.",
+    "items": [
+      {
+        "question": "Mr. Okon would be gnashing his teeth when he hears that his",
+        "options": [
+          { "option": "He would commit suicide.", "returnValue": "igzam1" },
+          { "option": "He would become mad.", "returnValue": "igzam2" },
+          { "option": "He would be very angry and upset.", "returnValue": "igzam3" },
+          { "option": "He would become aggressive and quarrelsome.", "returnValue": "igzam4" }
+        ]
+      },
+      {
+        "question": "You shouldn�t take anything she says at face value.",
+        "options": [
+          { "option": "Don�t make assumption on issues.", "returnValue": "igzam1" },
+          { "option": "Don�t believe things without questioning.", "returnValue": "igzam2" },
+          { "option": "Don�t take people for granted.", "returnValue": "igzam3" },
+          { "option": "Don�t be deceived by someone�s appearance.", "returnValue": "igzam4" }
+        ]
+      },
+      {
+        "question": "Without language, human beings are cast adrift.",
+        "options": [
+          { "option": "They were left in an uncontrolled boat.", "returnValue": "igzam1" },
+          { "option": "They were saved from being drowned.", "returnValue": "igzam2" },
+          { "option": "They were abandoned in the boat.", "returnValue": "igzam3" },
+          { "option": "They left their luggage in the boat.", "returnValue": "igzam4" }
+        ]
+      }
+    ]
+  },
+  {
+    "type": "question",
+    "groupType": 8,
+    "instruction": "",
+    "subTopic": "Choose the option that is correctly spelt.",
+    "items": [
+      {
+        "question": "",
+        "options": [
+          { "option": "Aproppriation", "returnValue": "igzam1" },
+          { "option": "Approprriation", "returnValue": "igzam2" },
+          { "option": "Appropriation", "returnValue": "igzam3" },
+          { "option": "Approppriation", "returnValue": "igzam4" }
+        ]
+      },
+      {
+        "question": "",
+        "options": [
+          { "option": "Orthopaedic", "returnValue": "igzam1" },
+          { "option": "Orthorpaedic", "returnValue": "igzam2" },
+          { "option": "Orthopeadic", "returnValue": "igzam3" },
+          { "option": "Orthopedic", "returnValue": "igzam4" }
+        ]
+      },
+      {
+        "question": "",
+        "options": [
+          { "option": "Thesauros", "returnValue": "igzam1" },
+          { "option": "Thasauruse", "returnValue": "igzam2" },
+          { "option": "Thesaurus", "returnValue": "igzam3" },
+          { "option": "Thesaurrus", "returnValue": "igzam4" }
+        ]
+      }
+    ]
+  },
+  {
+    "type": "question",
+    "groupType": 9,
+    "instruction": "",
+    "subTopic": "Choose the option that best complete the gap.",
+    "items": [
+      {
+        "question": "The Police have warned that those ... criminals in their houses",
+        "options": [
+          { "option": "entertaining", "returnValue": "igzam1" },
+          { "option": "harbouring", "returnValue": "igzam2" },
+          { "option": "interrogating", "returnValue": "igzam3" },
+          { "option": "feeding", "returnValue": "igzam4" }
+        ]
+      },
+      {
+        "question": "The Freshmen ... the javelin better than any other group.",
+        "options": [
+          { "option": "aim", "returnValue": "igzam1" },
+          { "option": "dart", "returnValue": "igzam2" },
+          { "option": "drop", "returnValue": "igzam3" },
+          { "option": "throw", "returnValue": "igzam4" }
+        ]
+      },
+      {
+        "question": "He maintained his stand in ... of the orders from his employer.",
+        "options": [
+          { "option": "defiance", "returnValue": "igzam1" },
+          { "option": "obedience", "returnValue": "igzam2" },
+          { "option": "deference", "returnValue": "igzam3" },
+          { "option": "application", "returnValue": "igzam4" }
+        ]
+      }
+    ]
+  },
+  {
+    "type": "question",
+    "groupType": 10,
+    "instruction": "",
+    "subTopic": "Choose the option that is grammatically correct.",
+    "items": [
+      {
+        "question": "",
+        "options": [
+          { "option": "I was woken by the noise of a car starting up.", "returnValue": "igzam1" },
+          {
+            "option": "I was woken with the noise of the car starting on.",
+            "returnValue": "igzam2"
+          },
+          { "option": "I was woken by the noises of a car starting up.", "returnValue": "igzam3" },
+          { "option": "I was woken by the noise of the car starting off.", "returnValue": "igzam4" }
+        ]
+      },
+      {
+        "question": "",
+        "options": [
+          { "option": "Ada�s beddings were made for double bed.", "returnValue": "igzam1" },
+          { "option": "Ada�s bedding was made for a double bed.", "returnValue": "igzam2" },
+          { "option": "Ada�s bedding were made for double a bed.", "returnValue": "igzam3" },
+          { "option": "Ada�s bedding is made for double bed.", "returnValue": "igzam4" }
+        ]
+      },
+      {
+        "question": "",
+        "options": [
+          { "option": "If I were you, I would forget all about it.", "returnValue": "igzam1" },
+          { "option": "If I am you, I would forget all about it.", "returnValue": "igzam2" },
+          { "option": "If I was you, I will forget all about it.", "returnValue": "igzam3" },
+          { "option": "If I am you, I would forget all about it.", "returnValue": "igzam4" }
+        ]
+      }
+    ]
+  },
+  {
+    "type": "question",
+    "groupType": 11,
+    "instruction": "",
+    "subTopic": "Choose the option that is opposite in meaning to the one in italics.",
+    "items": [
+      {
+        "question": "His family severed ties with him for marrying an outcast.",
+        "options": [
+          { "option": "included", "returnValue": "igzam1" },
+          { "option": "joined", "returnValue": "igzam2" },
+          { "option": "detached", "returnValue": "igzam3" },
+          { "option": "disrupted", "returnValue": "igzam4" }
+        ]
+      },
+      {
+        "question": "The Chairman�s statement on the company�s account is equivocal.",
+        "options": [
+          { "option": "vague", "returnValue": "igzam1" },
+          { "option": "ambiguous", "returnValue": "igzam2" },
+          { "option": "definite", "returnValue": "igzam3" },
+          { "option": "impressive", "returnValue": "igzam4" }
+        ]
+      },
+      {
+        "question": "The guilty appealed to the jury to condone his offence.",
+        "options": [
+          { "option": "accept", "returnValue": "igzam1" },
+          { "option": "forgive", "returnValue": "igzam2" },
+          { "option": "condemn", "returnValue": "igzam3" },
+          { "option": "criticize", "returnValue": "igzam4" }
+        ]
+      }
+    ]
+  },
+  {
+    "type": "question",
+    "groupType": 12,
+    "instruction": "",
+    "subTopic": "Choose the option that is nearest in meaning to the word in italics.",
+    "items": [
+      {
+        "question": "He is widely known for his exuberant personality.",
+        "options": [
+          { "option": "arrogant", "returnValue": "igzam1" },
+          { "option": "weak", "returnValue": "igzam2" },
+          { "option": "opulent", "returnValue": "igzam3" },
+          { "option": "jovial", "returnValue": "igzam4" }
+        ]
+      },
+      {
+        "question": "He was punished for being audacious.",
+        "options": [
+          { "option": "daring", "returnValue": "igzam1" },
+          { "option": "fearful", "returnValue": "igzam2" },
+          { "option": "shy", "returnValue": "igzam3" },
+          { "option": "stupid", "returnValue": "igzam4" }
+        ]
+      },
+      {
+        "question": "She regarded their proposal with disdain.",
+        "options": [
+          { "option": "determination", "returnValue": "igzam1" },
+          { "option": "respect", "returnValue": "igzam2" },
+          { "option": "scorn", "returnValue": "igzam3" },
+          { "option": "honour", "returnValue": "igzam4" }
+        ]
+      }
+    ]
+  },
+  {
+    "type": "question",
+    "groupType": 13,
+    "instruction": "",
+    "subTopic": "Choose the option that best explains the information conveyed.",
+    "items": [
+      {
+        "question": "Ladidi put up a different complexion.",
+        "options": [
+          { "option": "She has changed her complexion.", "returnValue": "igzam1" },
+          { "option": "She changed the way situation appeared.", "returnValue": "igzam2" },
+          { "option": "She rekindled her hope.", "returnValue": "igzam3" },
+          { "option": "She actualized the opportunity.", "returnValue": "igzam4" }
+        ]
+      },
+      {
+        "question": "I let it slip that my boss travelled.",
+        "options": [
+          { "option": "I forgot he told me about it.", "returnValue": "igzam1" },
+          { "option": "I revealed the secret", "returnValue": "igzam2" },
+          { "option": "I was comfortable with the idea.", "returnValue": "igzam3" },
+          { "option": "I ignored it.", "returnValue": "igzam4" }
+        ]
+      },
+      {
+        "question": "Uche has Hausa language at his command.",
+        "options": [
+          { "option": "He was forced to study the language.", "returnValue": "igzam1" },
+          { "option": "He can use the language well and complete.", "returnValue": "igzam2" },
+          { "option": "He teaches people the language.", "returnValue": "igzam3" },
+          { "option": "Hausa is the first language he learnt.", "returnValue": "igzam4" }
+        ]
+      }
+    ]
+  },
+  {
+    "type": "question",
+    "groupType": 14,
+    "instruction": "",
+    "subTopic": "Choose the option that is correctly spelt.",
+    "items": [
+      {
+        "question": "",
+        "options": [
+          { "option": "magnanimous", "returnValue": "igzam1" },
+          { "option": "margnanimous", "returnValue": "igzam2" },
+          { "option": "maggnanimous", "returnValue": "igzam3" },
+          { "option": "magnannimous", "returnValue": "igzam4" }
+        ]
+      },
+      {
+        "question": "",
+        "options": [
+          { "option": "viciessitudes", "returnValue": "igzam1" },
+          { "option": "vicissiltudes", "returnValue": "igzam2" },
+          { "option": "viccissitudes", "returnValue": "igzam3" },
+          { "option": "vicissitudes", "returnValue": "igzam4" }
+        ]
+      },
+      {
+        "question": "",
+        "options": [
+          { "option": "embarassment", "returnValue": "igzam1" },
+          { "option": "embbarrassment", "returnValue": "igzam2" },
+          { "option": "embarrassment", "returnValue": "igzam3" },
+          { "option": "embarrasment", "returnValue": "igzam4" }
+        ]
+      }
+    ]
+  },
+  {
+    "type": "question",
+    "groupType": 15,
+    "instruction": "",
+    "subTopic": "Choose the option that best completes the gap.",
+    "items": [
+      {
+        "question": "Emeka�s soothing remarks were made to ... Lanre�s anger.",
+        "options": [
+          { "option": "mollify", "returnValue": "igzam1" },
+          { "option": "aggravate", "returnValue": "igzam2" },
+          { "option": "incense", "returnValue": "igzam3" },
+          { "option": "petrify", "returnValue": "igzam4" }
+        ]
+      },
+      {
+        "question": "His � attitude towards school work made him fail all his first",
+        "options": [
+          { "option": "stupid", "returnValue": "igzam1" },
+          { "option": "worrisome", "returnValue": "igzam2" },
+          { "option": "disgusting", "returnValue": "igzam3" },
+          { "option": "nonchalant", "returnValue": "igzam4" }
+        ]
+      },
+      {
+        "question": "Mr. Udo�s truck went � of control and crashed � the back of a",
+        "options": [
+          { "option": "off/on", "returnValue": "igzam1" },
+          { "option": "out/into", "returnValue": "igzam2" },
+          { "option": "down/out", "returnValue": "igzam3" },
+          { "option": "off/on", "returnValue": "igzam4" }
+        ]
+      }
+    ]
+  },
+  {
+    "type": "question",
+    "groupType": 16,
+    "instruction": "",
+    "subTopic": "Choose the option that is grammatically correct.",
+    "items": [
+      {
+        "question": "",
+        "options": [
+          { "option": "He has not discussed the problem with anyone.", "returnValue": "igzam1" },
+          {
+            "option": "He has not discussed about the problem with anyone.",
+            "returnValue": "igzam2"
+          },
+          { "option": "He had not discussed on the problem with anyone.", "returnValue": "igzam3" },
+          {
+            "option": "He have not discussed about the problem with anyone.",
+            "returnValue": "igzam4"
+          }
+        ]
+      },
+      {
+        "question": "",
+        "options": [
+          {
+            "option": "They walked along by the river, laughing and talking.",
+            "returnValue": "igzam1"
+          },
+          {
+            "option": "They walk along in the river. laughing and talking.",
+            "returnValue": "igzam2"
+          },
+          {
+            "option": "They walk along at the river laughing and talking.",
+            "returnValue": "igzam3"
+          },
+          {
+            "option": "They walk along on the river, laughing and talking.",
+            "returnValue": "igzam4"
+          }
+        ]
+      },
+      {
+        "question": "",
+        "options": [
+          { "option": "Please advise us at any change of address.", "returnValue": "igzam1" },
+          { "option": "Please advises us at any change of address.", "returnValue": "igzam2" },
+          { "option": "Please advise us on any change of addresses.", "returnValue": "igzam3" },
+          { "option": "Please advise us of any change of address.", "returnValue": "igzam4" }
+        ]
+      }
+    ]
+  },
+  {
+    "type": "question",
+    "groupType": 17,
+    "instruction": "",
+    "subTopic": "Choose the option that is nearest in meaning to the word in italics.",
+    "items": [
+      {
+        "question": "The manual is complicated.",
+        "options": [
+          { "option": "boring", "returnValue": "igzam1" },
+          { "option": "cloudy", "returnValue": "igzam2" },
+          { "option": "explanatory", "returnValue": "igzam3" },
+          { "option": "confusing", "returnValue": "igzam4" }
+        ]
+      },
+      {
+        "question": "The old man�s exiguous savings is for his children�s education.",
+        "options": [
+          { "option": "large", "returnValue": "igzam1" },
+          { "option": "meagre", "returnValue": "igzam2" },
+          { "option": "wise", "returnValue": "igzam3" },
+          { "option": "noble", "returnValue": "igzam4" }
+        ]
+      },
+      {
+        "question": "The hapless crowd waited for the bus to arrive.",
+        "options": [
+          { "option": "restless", "returnValue": "igzam1" },
+          { "option": "lazy", "returnValue": "igzam2" },
+          { "option": "poor", "returnValue": "igzam3" },
+          { "option": "unlucky", "returnValue": "igzam4" }
+        ]
+      },
+      {
+        "question": "Palpable tension is building up among market women.",
+        "options": [
+          { "option": "Unsuspected", "returnValue": "igzam1" },
+          { "option": "Planned", "returnValue": "igzam2" },
+          { "option": "Unimaginable", "returnValue": "igzam3" },
+          { "option": "Obvious", "returnValue": "igzam4" }
+        ]
+      },
+      {
+        "question": "The goalkeeper was in a quandary",
+        "options": [
+          { "option": "bewilderment", "returnValue": "igzam1" },
+          { "option": "mess", "returnValue": "igzam2" },
+          { "option": "dilemma", "returnValue": "igzam3" },
+          { "option": "worry", "returnValue": "igzam4" }
+        ]
+      }
+    ]
+  },
+  {
+    "type": "question",
+    "groupType": 18,
+    "instruction": "",
+    "subTopic": "Choose the option that is opposite in meaning to the word in italics.",
+    "items": [
+      {
+        "question": "We were shocked at the desecration of the worship Centre.",
+        "options": [
+          { "option": "defilement", "returnValue": "igzam1" },
+          { "option": "sanctification", "returnValue": "igzam2" },
+          { "option": "profanation", "returnValue": "igzam3" },
+          { "option": "advancement", "returnValue": "igzam4" }
+        ]
+      },
+      {
+        "question": "There is a serious debate on the future of the Monarchy.",
+        "options": [
+          { "option": "democracy", "returnValue": "igzam1" },
+          { "option": "sovereignty", "returnValue": "igzam2" },
+          { "option": "communism", "returnValue": "igzam3" },
+          { "option": "socialism", "returnValue": "igzam4" }
+        ]
+      },
+      {
+        "question": "His behavior was a camouflage for his anxiety.",
+        "options": [
+          { "option": "concealment", "returnValue": "igzam1" },
+          { "option": "manifestation", "returnValue": "igzam2" },
+          { "option": "representation", "returnValue": "igzam3" },
+          { "option": "predilection", "returnValue": "igzam4" }
+        ]
+      },
+      {
+        "question": "She hung on as the freezing water cascaded past her.",
+        "options": [
+          { "option": "ascended", "returnValue": "igzam1" },
+          { "option": "tumbled", "returnValue": "igzam2" },
+          { "option": "hovered", "returnValue": "igzam3" },
+          { "option": "leveled", "returnValue": "igzam4" }
+        ]
+      },
+      {
+        "question": "The party adopted an aggressive propaganda campaign against",
+        "options": [
+          { "option": "publicity", "returnValue": "igzam1" },
+          { "option": "forthright", "returnValue": "igzam2" },
+          { "option": "fantasy", "returnValue": "igzam3" },
+          { "option": "strategic", "returnValue": "igzam4" }
+        ]
+      }
+    ]
+  },
+  {
+    "type": "question",
+    "groupType": 19,
+    "instruction": "",
+    "subTopic": "Select the options that best interprets the given sentence.",
+    "items": [
+      {
+        "question": "The politician played to the gallery.",
+        "options": [
+          { "option": "He was the centre of attraction", "returnValue": "igzam1" },
+          { "option": "He wanted to attract people�s attention", "returnValue": "igzam2" },
+          { "option": "He sought votes in the gallery", "returnValue": "igzam3" },
+          { "option": "He was afraid of the gallery", "returnValue": "igzam4" }
+        ]
+      },
+      {
+        "question": "The coach stepped off on the wrong foot.",
+        "options": [
+          { "option": "He started off badly", "returnValue": "igzam1" },
+          { "option": "He made a costly mistake", "returnValue": "igzam2" },
+          { "option": "He injured his adversaries", "returnValue": "igzam3" },
+          { "option": "He later employed the wrong method", "returnValue": "igzam4" }
+        ]
+      },
+      {
+        "question": "Tunde was an ugly duckling.",
+        "options": [
+          { "option": "He was attractive when he was young", "returnValue": "igzam1" },
+          { "option": "He talked like a duck when he was young", "returnValue": "igzam2" },
+          { "option": "He loved playing like a duck when he was younger", "returnValue": "igzam3" },
+          { "option": "He was unattractive when he was young", "returnValue": "igzam4" }
+        ]
+      },
+      {
+        "question": "If it rained, I would go out.",
+        "options": [
+          { "option": "It is certain I will go out", "returnValue": "igzam1" },
+          { "option": "It is compulsory for me to go out", "returnValue": "igzam2" },
+          { "option": "I�m not sure I would go out", "returnValue": "igzam3" },
+          { "option": "It did not rain so I did not go out", "returnValue": "igzam4" }
+        ]
+      },
+      {
+        "question": "It is not unlikely that he will come.",
+        "options": [
+          { "option": "He will be compelled to come", "returnValue": "igzam1" },
+          { "option": "He will not come", "returnValue": "igzam2" },
+          { "option": "He will come", "returnValue": "igzam3" },
+          { "option": "He is not sure if he will come", "returnValue": "igzam4" }
+        ]
+      }
+    ]
+  },
+  {
+    "type": "question",
+    "groupType": 20,
+    "instruction": "",
+    "subTopic": "Select the option that is written according to the requirements of standard English.",
+    "items": [
+      {
+        "question": "",
+        "options": [
+          {
+            "option": "One of the things he have to keep track of is school fees.",
+            "returnValue": "igzam1"
+          },
+          {
+            "option": "One of the things he had to keep track of is school fees.",
+            "returnValue": "igzam2"
+          },
+          {
+            "option": "One of the things he has to keep track of is school fees.",
+            "returnValue": "igzam3"
+          },
+          {
+            "option": "One of the thing he has to keep track of is school fees.",
+            "returnValue": "igzam4"
+          }
+        ]
+      }
+    ]
+  }
+]
