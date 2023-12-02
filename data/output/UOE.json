@@ -1,1 +1,794 @@
-[{"1":{"<p><b>PASSAGE I</b></p>":[]}},{"2":{"<p><b>PASSAGE II</b></p>":[]}},{"3":{"<p><b>This question is basedonS. L. Manyika’s<i>IN DEPENDENCE</i></b></p>":[]}},{"4":{"<p><b>For this question, select theoption that <i>best explains</i> the information conveyed in the sentence. </b></p>":[]}},{"5":{"<p><b>For this question, choose theoption <i>opposite in meaning</i> to the word or phrase in italics.</b></p>":[]}},{"6":{"<p><b>For this question, choose theoption <i>nearest in meaning</i> to the word or phrase in italics.</b></p>":[]}},{"7":{"<p><b>For this question, choose the option that <i>bestcompletes</i> the gap(s).</b></p>":[]}},{"8":{"<p><b>For this question, choose theoption that has the <i>same vowel sound</i> as the one represented by theletter(s) underlined.</b></p>":[]}},{"9":{"<p><b>For this question, choose theoption that has the <i>same consonant sound</i> as the one represented by theletter(s) underlined.</b></p>":[]}},{"10":{"<p><b>For this question, choose theoption that <i>rhymes</i> with the given word.</b></p>":[]}},{"11":{"<p><b>For this question, choose themost <i>appropriate stress pattern</i> from the options. The stressed syllablesare written in capital letters.</b></p>":[]}},{"12":{"<p><b>For this question, the word incapital letters has the <i>emphatic stress</i>. Choose the option to which thegiven sentence relates.</b></p>":[]}}]
+[
+  {
+    "groupType": 1,
+    "instruction": "<p><b>PASSAGE I</b></p><p><b>Read the passagecarefully and answer each question that follows.</b></p><p>Governance is a conceptencompassing all aspects of the exercise of authority through formal andinformal institutions in the management of the resources of a state.Thequality of governance is thus determined by the impact of this exercise ofpower on the quality of life enjoyed by citizens.There is a growingawareness in the community that an enabling environment is needed to impact onthe well-being of its citizens, such enabling environment are created byinterest, institutions and policies. Although no single index can conceptuallycapture all aspects of this enabling environment, a focus on key observableaspects of the governance dimensions can be helpful. The key observable aspectsof the governance dimension considered are citizen’s voice, governmentorientation, social development, and economic management. The ability to createan index of governance quality has been enhanced by the creation of severalindexes in recent years.For example, we make use of previouslypublished indexes measuring health provision, education, quality politicalfreedom, and government corruption.</p><p>Adapted from<i>Anwar,S.(ed) (2005) ‘Public Sector Governance and Accountability Series; PublicService Delivery.Washington DC: The World Bank.</i></p>",
+    "items": [
+      {
+        "order": 1,
+        "question": "According to the passage, index of governance is a prerequisitefor </p>",
+        "options": [
+          { "option": "<p>planning for the future of governance</p>", "returnValue": "igzam1" },
+          {
+            "option": "<p>enhancing the quality of life of the citizenry</p>",
+            "returnValue": "igzam2"
+          },
+          { "option": "<p>harnessing resources of the people</p>", "returnValue": "igzam3" },
+          { "option": "<p>creating awareness among the citizens</p>", "returnValue": "igzam4" }
+        ],
+        "answer": "igzam1"
+      },
+      {
+        "order": 2,
+        "question": "One can conclude from the passage that governance is </p>",
+        "options": [
+          { "option": "<p>planning for the future of governance</p>", "returnValue": "igzam1" },
+          {
+            "option": "<p>enhancing the quality of life of the citizenry</p>",
+            "returnValue": "igzam2"
+          },
+          { "option": "<p>harnessing resources of the people</p>", "returnValue": "igzam3" },
+          { "option": "<p>creating awareness among the citizens</p>", "returnValue": "igzam4" }
+        ],
+        "answer": "igzam1"
+      },
+      {
+        "order": 3,
+        "question": "Which of the following statements is true according to thepassage?</p>",
+        "options": [
+          { "option": "<p>planning for the future of governance</p>", "returnValue": "igzam1" },
+          {
+            "option": "<p>enhancing the quality of life of the citizenry</p>",
+            "returnValue": "igzam2"
+          },
+          { "option": "<p>harnessing resources of the people</p>", "returnValue": "igzam3" },
+          { "option": "<p>creating awareness among the citizens</p>", "returnValue": "igzam4" }
+        ],
+        "answer": "igzam1"
+      },
+      {
+        "order": 4,
+        "question": "From the first passage, it can be concluded that governance is </p>",
+        "options": [
+          { "option": "<p>planning for the future of governance</p>", "returnValue": "igzam1" },
+          {
+            "option": "<p>enhancing the quality of life of the citizenry</p>",
+            "returnValue": "igzam2"
+          },
+          { "option": "<p>harnessing resources of the people</p>", "returnValue": "igzam3" },
+          { "option": "<p>creating awareness among the citizens</p>", "returnValue": "igzam4" }
+        ],
+        "answer": "igzam1"
+      },
+      {
+        "order": 5,
+        "question": "According to the passage, the ultimate goal of governance is to </p>",
+        "options": [
+          { "option": "<p>planning for the future of governance</p>", "returnValue": "igzam1" },
+          {
+            "option": "<p>enhancing the quality of life of the citizenry</p>",
+            "returnValue": "igzam2"
+          },
+          { "option": "<p>harnessing resources of the people</p>", "returnValue": "igzam3" },
+          { "option": "<p>creating awareness among the citizens</p>", "returnValue": "igzam4" }
+        ],
+        "answer": "igzam1"
+      }
+    ]
+  },
+  {
+    "groupType": 2,
+    "instruction": "<p><b>PASSAGE II</b></p><p><b></b></p><p><b>The passage below has gaps.Immediately following each gap, four options are provided. Choose the mostappropriate option for each gap. </b></p><p>It is interesting watching amodern building springing up and getting completed in a matter ofmonths.A few months ago, a building company brought some <b>…6…</b>[A<i>. <b>trailers</b></i>B<i>. <b>ploughs</b></i>C<i>. <b>bulldozers</b></i>D<i>.<b>machines</b></i>] to the virgin forest next to our school.Thetrees were felled, the grounds were cleared and <b>…7…</b> [A<i>. <b>levelled</b></i>B<i>.<b>repaired</b></i>C<i>. <b>demolished</b></i>D<i>. <b>destroyed</b></i>],and the workers brought out various <b>…8…</b> [A<i>. <b>apparatus</b></i>B<i>.<b>outfit</b></i>C<i>. <b>materials </b>D. <b>equipment</b></i>] withwhich they measured and marked the <b>…9…</b> [A<i>. <b>plan</b></i>B<i>.<b>trenches</b></i>C<i>. <b>ground</b> D</i>.<i><b>gutters</b></i>].Then the <b>…10…</b> [A<i>. <b>basis</b></i>B<i>. <b>foundation</b></i>C<i>.<b>compartment</b></i>D<i>. <b>settlement</b></i>] was dug. The <b>…11…</b>[A<i>. <b>plywood</b></i>B<i>. <b>louvres</b></i>C<i>. <b>metals</b></i>D.<b><i>blocks</i></b>] were brought from somewhere else, the <b>…12…</b> [A<i>. <b>concoction</b></i>B<i>.<b>steel</b></i>C<i>. <b>concrete</b></i>D<i>. <b>compound</b></i>]was made from a mixture and the walls were growing before our eyes. Before the end of the second month, we realized it was not goingto be a <b>…13…</b> [A<i>. <b>bungalow</b></i>B<i>. <b>flat</b></i>C<i>.<b>mansion</b></i>D<i>. <b>basement</b></i>], it was a storeyedbuilding.The beam was cast in only one day by workers who <b>…14…</b>[A<i>. <b>struggled </b></i>B<i>. <b>complained </b></i>C<i>. <b>suffered</b></i>D<i>.<b>toiled</b></i>] for the whole day.Thereafter, things moved evenfaster.By the end of the third month, <b>…15…</b> [A<i>. <b>theroof</b></i>B<i>. <b>the block</b></i>C<i>. <b>wood</b></i>D<i>.<b>the nail</b></i>] was in place.</p><p>Adapted from Banjo A., AyodeleS., and Ndahi K. (2007) <i>Exam focus</i>, English Language for WASSCE and SSCEIbadan: University Press. </p>",
+    "items": [
+      {
+        "order": 6,
+        "question": "</p>",
+        "options": [
+          { "option": "<p>trailers</p>", "returnValue": "igzam1" },
+          { "option": "<p>ploughs</p>", "returnValue": "igzam2" },
+          { "option": "<p>bulldozers</p>", "returnValue": "igzam3" },
+          { "option": "<p>machine</p>", "returnValue": "igzam4" }
+        ],
+        "answer": "igzam1"
+      },
+      {
+        "order": 7,
+        "question": "</p>",
+        "options": [
+          { "option": "<p>trailers</p>", "returnValue": "igzam1" },
+          { "option": "<p>ploughs</p>", "returnValue": "igzam2" },
+          { "option": "<p>bulldozers</p>", "returnValue": "igzam3" },
+          { "option": "<p>machine</p>", "returnValue": "igzam4" }
+        ],
+        "answer": "igzam1"
+      },
+      {
+        "order": 8,
+        "question": "</p>",
+        "options": [
+          { "option": "<p>trailers</p>", "returnValue": "igzam1" },
+          { "option": "<p>ploughs</p>", "returnValue": "igzam2" },
+          { "option": "<p>bulldozers</p>", "returnValue": "igzam3" },
+          { "option": "<p>machine</p>", "returnValue": "igzam4" }
+        ],
+        "answer": "igzam1"
+      },
+      {
+        "order": 9,
+        "question": "</p>",
+        "options": [
+          { "option": "<p>trailers</p>", "returnValue": "igzam1" },
+          { "option": "<p>ploughs</p>", "returnValue": "igzam2" },
+          { "option": "<p>bulldozers</p>", "returnValue": "igzam3" },
+          { "option": "<p>machine</p>", "returnValue": "igzam4" }
+        ],
+        "answer": "igzam1"
+      },
+      {
+        "order": 10,
+        "question": "</p>",
+        "options": [
+          { "option": "<p>trailers</p>", "returnValue": "igzam1" },
+          { "option": "<p>ploughs</p>", "returnValue": "igzam2" },
+          { "option": "<p>bulldozers</p>", "returnValue": "igzam3" },
+          { "option": "<p>machine</p>", "returnValue": "igzam4" }
+        ],
+        "answer": "igzam1"
+      },
+      {
+        "order": 11,
+        "question": "</p>",
+        "options": [
+          { "option": "<p>trailers</p>", "returnValue": "igzam1" },
+          { "option": "<p>ploughs</p>", "returnValue": "igzam2" },
+          { "option": "<p>bulldozers</p>", "returnValue": "igzam3" },
+          { "option": "<p>machine</p>", "returnValue": "igzam4" }
+        ],
+        "answer": "igzam1"
+      },
+      {
+        "order": 12,
+        "question": "</p>",
+        "options": [
+          { "option": "<p>trailers</p>", "returnValue": "igzam1" },
+          { "option": "<p>ploughs</p>", "returnValue": "igzam2" },
+          { "option": "<p>bulldozers</p>", "returnValue": "igzam3" },
+          { "option": "<p>machine</p>", "returnValue": "igzam4" }
+        ],
+        "answer": "igzam1"
+      },
+      {
+        "order": 13,
+        "question": "</p>",
+        "options": [
+          { "option": "<p>trailers</p>", "returnValue": "igzam1" },
+          { "option": "<p>ploughs</p>", "returnValue": "igzam2" },
+          { "option": "<p>bulldozers</p>", "returnValue": "igzam3" },
+          { "option": "<p>machine</p>", "returnValue": "igzam4" }
+        ],
+        "answer": "igzam1"
+      },
+      {
+        "order": 14,
+        "question": "</p>",
+        "options": [
+          { "option": "<p>trailers</p>", "returnValue": "igzam1" },
+          { "option": "<p>ploughs</p>", "returnValue": "igzam2" },
+          { "option": "<p>bulldozers</p>", "returnValue": "igzam3" },
+          { "option": "<p>machine</p>", "returnValue": "igzam4" }
+        ],
+        "answer": "igzam1"
+      },
+      {
+        "order": 15,
+        "question": "</p>",
+        "options": [
+          { "option": "<p>trailers</p>", "returnValue": "igzam1" },
+          { "option": "<p>ploughs</p>", "returnValue": "igzam2" },
+          { "option": "<p>bulldozers</p>", "returnValue": "igzam3" },
+          { "option": "<p>machine</p>", "returnValue": "igzam4" }
+        ],
+        "answer": "igzam1"
+      }
+    ]
+  },
+  {
+    "groupType": 3,
+    "instruction": "<p><b>This question is basedonS. L. Manyika’s<i>IN DEPENDENCE</i></b></p>",
+    "items": [
+      {
+        "order": 16,
+        "question": "In the novel, the firstconversation between Tayo and Vanessa took place </p>",
+        "options": [
+          { "option": "<p>at the drinks party</p>", "returnValue": "igzam1" },
+          { "option": "<p>on the British train</p>", "returnValue": "igzam2" },
+          { "option": "<p>at the West African Society meeting</p>", "returnValue": "igzam3" },
+          { "option": "<p>on the ship taking Vanessa to England</p>", "returnValue": "igzam4" }
+        ],
+        "answer": "igzam1"
+      },
+      {
+        "order": 17,
+        "question": "Why did Tayo feel at home withMr. Barker?</p>",
+        "options": [
+          { "option": "<p>at the drinks party</p>", "returnValue": "igzam1" },
+          { "option": "<p>on the British train</p>", "returnValue": "igzam2" },
+          { "option": "<p>at the West African Society meeting</p>", "returnValue": "igzam3" },
+          { "option": "<p>on the ship taking Vanessa to England</p>", "returnValue": "igzam4" }
+        ],
+        "answer": "igzam1"
+      },
+      {
+        "order": 18,
+        "question": "The party in Mr. Barker’shouse was organized for</p>",
+        "options": [
+          { "option": "<p>at the drinks party</p>", "returnValue": "igzam1" },
+          { "option": "<p>on the British train</p>", "returnValue": "igzam2" },
+          { "option": "<p>at the West African Society meeting</p>", "returnValue": "igzam3" },
+          { "option": "<p>on the ship taking Vanessa to England</p>", "returnValue": "igzam4" }
+        ],
+        "answer": "igzam1"
+      },
+      {
+        "order": 19,
+        "question": "According to the novel,Christine invited Tayo to her flat so that </p>",
+        "options": [
+          { "option": "<p>at the drinks party</p>", "returnValue": "igzam1" },
+          { "option": "<p>on the British train</p>", "returnValue": "igzam2" },
+          { "option": "<p>at the West African Society meeting</p>", "returnValue": "igzam3" },
+          { "option": "<p>on the ship taking Vanessa to England</p>", "returnValue": "igzam4" }
+        ],
+        "answer": "igzam1"
+      },
+      {
+        "order": 20,
+        "question": "Vanessa skipped meals in thecollege because it was</p>",
+        "options": [
+          { "option": "<p>at the drinks party</p>", "returnValue": "igzam1" },
+          { "option": "<p>on the British train</p>", "returnValue": "igzam2" },
+          { "option": "<p>at the West African Society meeting</p>", "returnValue": "igzam3" },
+          { "option": "<p>on the ship taking Vanessa to England</p>", "returnValue": "igzam4" }
+        ],
+        "answer": "igzam1"
+      },
+      {
+        "order": 21,
+        "question": "In the novel, why did Tayonickname Vanessa Moremi?</p>",
+        "options": [
+          { "option": "<p>at the drinks party</p>", "returnValue": "igzam1" },
+          { "option": "<p>on the British train</p>", "returnValue": "igzam2" },
+          { "option": "<p>at the West African Society meeting</p>", "returnValue": "igzam3" },
+          { "option": "<p>on the ship taking Vanessa to England</p>", "returnValue": "igzam4" }
+        ],
+        "answer": "igzam1"
+      },
+      {
+        "order": 22,
+        "question": "Vanessa’s consolation forbeing away from home was</p>",
+        "options": [
+          { "option": "<p>at the drinks party</p>", "returnValue": "igzam1" },
+          { "option": "<p>on the British train</p>", "returnValue": "igzam2" },
+          { "option": "<p>at the West African Society meeting</p>", "returnValue": "igzam3" },
+          { "option": "<p>on the ship taking Vanessa to England</p>", "returnValue": "igzam4" }
+        ],
+        "answer": "igzam1"
+      },
+      {
+        "order": 23,
+        "question": "According to Tayo, Nigerianrain unlike British falls</p>",
+        "options": [
+          { "option": "<p>at the drinks party</p>", "returnValue": "igzam1" },
+          { "option": "<p>on the British train</p>", "returnValue": "igzam2" },
+          { "option": "<p>at the West African Society meeting</p>", "returnValue": "igzam3" },
+          { "option": "<p>on the ship taking Vanessa to England</p>", "returnValue": "igzam4" }
+        ],
+        "answer": "igzam1"
+      },
+      {
+        "order": 24,
+        "question": "The invitation of Mr.Richardson’s mining friends indicated his</p>",
+        "options": [
+          { "option": "<p>at the drinks party</p>", "returnValue": "igzam1" },
+          { "option": "<p>on the British train</p>", "returnValue": "igzam2" },
+          { "option": "<p>at the West African Society meeting</p>", "returnValue": "igzam3" },
+          { "option": "<p>on the ship taking Vanessa to England</p>", "returnValue": "igzam4" }
+        ],
+        "answer": "igzam1"
+      },
+      {
+        "order": 25,
+        "question": "In the novel, Vanessa’s smallconfession to Tayoduring their walkto the country pub wasthat</p>",
+        "options": [
+          { "option": "<p>at the drinks party</p>", "returnValue": "igzam1" },
+          { "option": "<p>on the British train</p>", "returnValue": "igzam2" },
+          { "option": "<p>at the West African Society meeting</p>", "returnValue": "igzam3" },
+          { "option": "<p>on the ship taking Vanessa to England</p>", "returnValue": "igzam4" }
+        ],
+        "answer": "igzam1"
+      }
+    ]
+  },
+  {
+    "groupType": 4,
+    "instruction": "<p><b>For this question, select theoption that <i>best explains</i> the information conveyed in the sentence. </b></p>",
+    "items": [
+      {
+        "order": 26,
+        "question": "Entertainment is meat and potatoes to the Newspaper.</p>",
+        "options": [
+          {
+            "option": "<p>Entertainment is less important to the Newspaper.</p>",
+            "returnValue": "igzam1"
+          },
+          {
+            "option": "<p>Entertainment is the most important to the Newspaper.</p>",
+            "returnValue": "igzam2"
+          },
+          {
+            "option": "<p>Entertainment is presented as meat in the Newspaper.</p>",
+            "returnValue": "igzam3"
+          },
+          { "option": "<p>The Newspaper only reports entertainment.</p>", "returnValue": "igzam4" }
+        ],
+        "answer": "igzam1"
+      },
+      {
+        "order": 27,
+        "question": "The man was censured by his wife.</p>",
+        "options": [
+          {
+            "option": "<p>Entertainment is less important to the Newspaper.</p>",
+            "returnValue": "igzam1"
+          },
+          {
+            "option": "<p>Entertainment is the most important to the Newspaper.</p>",
+            "returnValue": "igzam2"
+          },
+          {
+            "option": "<p>Entertainment is presented as meat in the Newspaper.</p>",
+            "returnValue": "igzam3"
+          },
+          { "option": "<p>The Newspaper only reports entertainment.</p>", "returnValue": "igzam4" }
+        ],
+        "answer": "igzam1"
+      },
+      {
+        "order": 28,
+        "question": "Mohammed did the maths before he took the loan</p>",
+        "options": [
+          {
+            "option": "<p>Entertainment is less important to the Newspaper.</p>",
+            "returnValue": "igzam1"
+          },
+          {
+            "option": "<p>Entertainment is the most important to the Newspaper.</p>",
+            "returnValue": "igzam2"
+          },
+          {
+            "option": "<p>Entertainment is presented as meat in the Newspaper.</p>",
+            "returnValue": "igzam3"
+          },
+          { "option": "<p>The Newspaper only reports entertainment.</p>", "returnValue": "igzam4" }
+        ],
+        "answer": "igzam1"
+      },
+      {
+        "order": 29,
+        "question": "The coach didn’t know Yomi was off colour before the match.</p>",
+        "options": [
+          {
+            "option": "<p>Entertainment is less important to the Newspaper.</p>",
+            "returnValue": "igzam1"
+          },
+          {
+            "option": "<p>Entertainment is the most important to the Newspaper.</p>",
+            "returnValue": "igzam2"
+          },
+          {
+            "option": "<p>Entertainment is presented as meat in the Newspaper.</p>",
+            "returnValue": "igzam3"
+          },
+          { "option": "<p>The Newspaper only reports entertainment.</p>", "returnValue": "igzam4" }
+        ],
+        "answer": "igzam1"
+      },
+      {
+        "order": 30,
+        "question": "My best days are yet to come.</p>",
+        "options": [
+          {
+            "option": "<p>Entertainment is less important to the Newspaper.</p>",
+            "returnValue": "igzam1"
+          },
+          {
+            "option": "<p>Entertainment is the most important to the Newspaper.</p>",
+            "returnValue": "igzam2"
+          },
+          {
+            "option": "<p>Entertainment is presented as meat in the Newspaper.</p>",
+            "returnValue": "igzam3"
+          },
+          { "option": "<p>The Newspaper only reports entertainment.</p>", "returnValue": "igzam4" }
+        ],
+        "answer": "igzam1"
+      }
+    ]
+  },
+  {
+    "groupType": 5,
+    "instruction": "<p><b>For this question, choose theoption <i>opposite in meaning</i> to the word or phrase in italics.</b></p>",
+    "items": [
+      {
+        "order": 31,
+        "question": "Bisi is a very <i>genial </i>person.</p>",
+        "options": [
+          { "option": "<p>friendly and calm</p>", "returnValue": "igzam1" },
+          { "option": "<p>unfriendly but calm</p>", "returnValue": "igzam2" },
+          { "option": "<p>friendly and kind</p>", "returnValue": "igzam3" },
+          { "option": "<p>unfriendly and unrepentant</p>", "returnValue": "igzam4" }
+        ],
+        "answer": "igzam1"
+      },
+      {
+        "order": 32,
+        "question": "I have not <i>faltered </i>in my quest for a new future.</p>",
+        "options": [
+          { "option": "<p>friendly and calm</p>", "returnValue": "igzam1" },
+          { "option": "<p>unfriendly but calm</p>", "returnValue": "igzam2" },
+          { "option": "<p>friendly and kind</p>", "returnValue": "igzam3" },
+          { "option": "<p>unfriendly and unrepentant</p>", "returnValue": "igzam4" }
+        ],
+        "answer": "igzam1"
+      },
+      {
+        "order": 33,
+        "question": "It may not be necessary to punish <i>feeble</i> children.</p>",
+        "options": [
+          { "option": "<p>friendly and calm</p>", "returnValue": "igzam1" },
+          { "option": "<p>unfriendly but calm</p>", "returnValue": "igzam2" },
+          { "option": "<p>friendly and kind</p>", "returnValue": "igzam3" },
+          { "option": "<p>unfriendly and unrepentant</p>", "returnValue": "igzam4" }
+        ],
+        "answer": "igzam1"
+      },
+      {
+        "order": 34,
+        "question": "His proposal was quite <i>preposterous</i>.</p>",
+        "options": [
+          { "option": "<p>friendly and calm</p>", "returnValue": "igzam1" },
+          { "option": "<p>unfriendly but calm</p>", "returnValue": "igzam2" },
+          { "option": "<p>friendly and kind</p>", "returnValue": "igzam3" },
+          { "option": "<p>unfriendly and unrepentant</p>", "returnValue": "igzam4" }
+        ],
+        "answer": "igzam1"
+      },
+      {
+        "order": 35,
+        "question": "Her father <i>nurtured</i> her from birth.</p>",
+        "options": [
+          { "option": "<p>friendly and calm</p>", "returnValue": "igzam1" },
+          { "option": "<p>unfriendly but calm</p>", "returnValue": "igzam2" },
+          { "option": "<p>friendly and kind</p>", "returnValue": "igzam3" },
+          { "option": "<p>unfriendly and unrepentant</p>", "returnValue": "igzam4" }
+        ],
+        "answer": "igzam1"
+      }
+    ]
+  },
+  {
+    "groupType": 6,
+    "instruction": "<p><b>For this question, choose theoption <i>nearest in meaning</i> to the word or phrase in italics.</b></p>",
+    "items": [
+      {
+        "order": 36,
+        "question": "<i>Courteously</i>, we stood back to let themanagement team go first through the door.</p>",
+        "options": [
+          { "option": "<p>Patiently</p>", "returnValue": "igzam1" },
+          { "option": "<p>Politely</p>", "returnValue": "igzam2" },
+          { "option": "<p>Carefully</p>", "returnValue": "igzam3" },
+          { "option": "<p>Calmly</p>", "returnValue": "igzam4" }
+        ],
+        "answer": "igzam1"
+      },
+      {
+        "order": 37,
+        "question": "His <i>impertinence </i>got him into this.</p>",
+        "options": [
+          { "option": "<p>Patiently</p>", "returnValue": "igzam1" },
+          { "option": "<p>Politely</p>", "returnValue": "igzam2" },
+          { "option": "<p>Carefully</p>", "returnValue": "igzam3" },
+          { "option": "<p>Calmly</p>", "returnValue": "igzam4" }
+        ],
+        "answer": "igzam1"
+      },
+      {
+        "order": 38,
+        "question": "The government has made adequate provision for <i>expatriates</i>.</p>",
+        "options": [
+          { "option": "<p>Patiently</p>", "returnValue": "igzam1" },
+          { "option": "<p>Politely</p>", "returnValue": "igzam2" },
+          { "option": "<p>Carefully</p>", "returnValue": "igzam3" },
+          { "option": "<p>Calmly</p>", "returnValue": "igzam4" }
+        ],
+        "answer": "igzam1"
+      },
+      {
+        "order": 39,
+        "question": "Isa took a <i>detour </i>round the back streets.</p>",
+        "options": [
+          { "option": "<p>Patiently</p>", "returnValue": "igzam1" },
+          { "option": "<p>Politely</p>", "returnValue": "igzam2" },
+          { "option": "<p>Carefully</p>", "returnValue": "igzam3" },
+          { "option": "<p>Calmly</p>", "returnValue": "igzam4" }
+        ],
+        "answer": "igzam1"
+      },
+      {
+        "order": 40,
+        "question": "Support for the students was <i>fraying at the edges</i>.</p>",
+        "options": [
+          { "option": "<p>Patiently</p>", "returnValue": "igzam1" },
+          { "option": "<p>Politely</p>", "returnValue": "igzam2" },
+          { "option": "<p>Carefully</p>", "returnValue": "igzam3" },
+          { "option": "<p>Calmly</p>", "returnValue": "igzam4" }
+        ],
+        "answer": "igzam1"
+      }
+    ]
+  },
+  {
+    "groupType": 7,
+    "instruction": "<p><b>For this question, choose the option that <i>bestcompletes</i> the gap(s).</b></p>",
+    "items": [
+      {
+        "order": 41,
+        "question": "We have been battling… the idea.</p>",
+        "options": [
+          { "option": "<p>on</p>", "returnValue": "igzam1" },
+          { "option": "<p>with</p>", "returnValue": "igzam2" },
+          { "option": "<p>around</p>", "returnValue": "igzam3" },
+          { "option": "<p>about</p>", "returnValue": "igzam4" }
+        ],
+        "answer": "igzam1"
+      },
+      {
+        "order": 42,
+        "question": "The chairs ordered … brought to us.</p>",
+        "options": [
+          { "option": "<p>on</p>", "returnValue": "igzam1" },
+          { "option": "<p>with</p>", "returnValue": "igzam2" },
+          { "option": "<p>around</p>", "returnValue": "igzam3" },
+          { "option": "<p>about</p>", "returnValue": "igzam4" }
+        ],
+        "answer": "igzam1"
+      },
+      {
+        "order": 43,
+        "question": "… you please open the door for me?</p>",
+        "options": [
+          { "option": "<p>on</p>", "returnValue": "igzam1" },
+          { "option": "<p>with</p>", "returnValue": "igzam2" },
+          { "option": "<p>around</p>", "returnValue": "igzam3" },
+          { "option": "<p>about</p>", "returnValue": "igzam4" }
+        ],
+        "answer": "igzam1"
+      },
+      {
+        "order": 44,
+        "question": "Within the last year, many new schools have been … in my area.</p>",
+        "options": [
+          { "option": "<p>on</p>", "returnValue": "igzam1" },
+          { "option": "<p>with</p>", "returnValue": "igzam2" },
+          { "option": "<p>around</p>", "returnValue": "igzam3" },
+          { "option": "<p>about</p>", "returnValue": "igzam4" }
+        ],
+        "answer": "igzam1"
+      },
+      {
+        "order": 45,
+        "question": "What were we talking about … breakfast?</p>",
+        "options": [
+          { "option": "<p>on</p>", "returnValue": "igzam1" },
+          { "option": "<p>with</p>", "returnValue": "igzam2" },
+          { "option": "<p>around</p>", "returnValue": "igzam3" },
+          { "option": "<p>about</p>", "returnValue": "igzam4" }
+        ],
+        "answer": "igzam1"
+      },
+      {
+        "order": 46,
+        "question": "You may call the new baby … you feel is most appropriate.</p>",
+        "options": [
+          { "option": "<p>on</p>", "returnValue": "igzam1" },
+          { "option": "<p>with</p>", "returnValue": "igzam2" },
+          { "option": "<p>around</p>", "returnValue": "igzam3" },
+          { "option": "<p>about</p>", "returnValue": "igzam4" }
+        ],
+        "answer": "igzam1"
+      },
+      {
+        "order": 47,
+        "question": "He made a pile … his investment.</p>",
+        "options": [
+          { "option": "<p>on</p>", "returnValue": "igzam1" },
+          { "option": "<p>with</p>", "returnValue": "igzam2" },
+          { "option": "<p>around</p>", "returnValue": "igzam3" },
+          { "option": "<p>about</p>", "returnValue": "igzam4" }
+        ],
+        "answer": "igzam1"
+      },
+      {
+        "order": 48,
+        "question": "The rich man devoted himself … the needy</p>",
+        "options": [
+          { "option": "<p>on</p>", "returnValue": "igzam1" },
+          { "option": "<p>with</p>", "returnValue": "igzam2" },
+          { "option": "<p>around</p>", "returnValue": "igzam3" },
+          { "option": "<p>about</p>", "returnValue": "igzam4" }
+        ],
+        "answer": "igzam1"
+      },
+      {
+        "order": 49,
+        "question": "The man will lose his portfolio if he gives … state secrets.</p>",
+        "options": [
+          { "option": "<p>on</p>", "returnValue": "igzam1" },
+          { "option": "<p>with</p>", "returnValue": "igzam2" },
+          { "option": "<p>around</p>", "returnValue": "igzam3" },
+          { "option": "<p>about</p>", "returnValue": "igzam4" }
+        ],
+        "answer": "igzam1"
+      },
+      {
+        "order": 50,
+        "question": "Arome’s summary of his reports was … </p>",
+        "options": [
+          { "option": "<p>on</p>", "returnValue": "igzam1" },
+          { "option": "<p>with</p>", "returnValue": "igzam2" },
+          { "option": "<p>around</p>", "returnValue": "igzam3" },
+          { "option": "<p>about</p>", "returnValue": "igzam4" }
+        ],
+        "answer": "igzam1"
+      }
+    ]
+  },
+  {
+    "groupType": 8,
+    "instruction": "<p><b>For this question, choose theoption that has the <i>same vowel sound</i> as the one represented by theletter(s) underlined.</b></p>",
+    "items": [
+      {
+        "order": 51,
+        "question": "l<u>aw</u></p>",
+        "options": [
+          { "option": "<p>hurd</p>", "returnValue": "igzam1" },
+          { "option": "<p>hurt</p>", "returnValue": "igzam2" },
+          { "option": "<p>horse</p>", "returnValue": "igzam3" },
+          { "option": "<p>hoe</p>", "returnValue": "igzam4" }
+        ],
+        "answer": "igzam1"
+      },
+      {
+        "order": 52,
+        "question": "h<u>eir</u></p>",
+        "options": [
+          { "option": "<p>hurd</p>", "returnValue": "igzam1" },
+          { "option": "<p>hurt</p>", "returnValue": "igzam2" },
+          { "option": "<p>horse</p>", "returnValue": "igzam3" },
+          { "option": "<p>hoe</p>", "returnValue": "igzam4" }
+        ],
+        "answer": "igzam1"
+      }
+    ]
+  },
+  {
+    "groupType": 9,
+    "instruction": "<p><b>For this question, choose theoption that has the <i>same consonant sound</i> as the one represented by theletter(s) underlined.</b></p>",
+    "items": [
+      {
+        "order": 53,
+        "question": "<u>d</u>ove</p>",
+        "options": [
+          { "option": "<p>gorge</p>", "returnValue": "igzam1" },
+          { "option": "<p>talked</p>", "returnValue": "igzam2" },
+          { "option": "<p>launder</p>", "returnValue": "igzam3" },
+          { "option": "<p>reached</p>", "returnValue": "igzam4" }
+        ],
+        "answer": "igzam1"
+      },
+      {
+        "order": 54,
+        "question": "meeti<u>ng</u></p>",
+        "options": [
+          { "option": "<p>gorge</p>", "returnValue": "igzam1" },
+          { "option": "<p>talked</p>", "returnValue": "igzam2" },
+          { "option": "<p>launder</p>", "returnValue": "igzam3" },
+          { "option": "<p>reached</p>", "returnValue": "igzam4" }
+        ],
+        "answer": "igzam1"
+      }
+    ]
+  },
+  {
+    "groupType": 10,
+    "instruction": "<p><b>For this question, choose theoption that <i>rhymes</i> with the given word.</b></p>",
+    "items": [
+      {
+        "order": 55,
+        "question": "pass</p>",
+        "options": [
+          { "option": "<p>part</p>", "returnValue": "igzam1" },
+          { "option": "<p>bear</p>", "returnValue": "igzam2" },
+          { "option": "<p>mass</p>", "returnValue": "igzam3" },
+          { "option": "<p>pairs</p>", "returnValue": "igzam4" }
+        ],
+        "answer": "igzam1"
+      },
+      {
+        "order": 56,
+        "question": "flow</p>",
+        "options": [
+          { "option": "<p>part</p>", "returnValue": "igzam1" },
+          { "option": "<p>bear</p>", "returnValue": "igzam2" },
+          { "option": "<p>mass</p>", "returnValue": "igzam3" },
+          { "option": "<p>pairs</p>", "returnValue": "igzam4" }
+        ],
+        "answer": "igzam1"
+      }
+    ]
+  },
+  {
+    "groupType": 11,
+    "instruction": "<p><b>For this question, choose themost <i>appropriate stress pattern</i> from the options. The stressed syllablesare written in capital letters.</b></p>",
+    "items": [
+      {
+        "order": 57,
+        "question": "extinguisher</p>",
+        "options": [
+          { "option": "<p>EXtinguisher</p>", "returnValue": "igzam1" },
+          { "option": "<p>exTINguisher</p>", "returnValue": "igzam2" },
+          { "option": "<p>extinGUIsher</p>", "returnValue": "igzam3" },
+          { "option": "<p>extinguiSHER</p>", "returnValue": "igzam4" }
+        ],
+        "answer": "igzam1"
+      },
+      {
+        "order": 58,
+        "question": "longitudinal</p>",
+        "options": [
+          { "option": "<p>EXtinguisher</p>", "returnValue": "igzam1" },
+          { "option": "<p>exTINguisher</p>", "returnValue": "igzam2" },
+          { "option": "<p>extinGUIsher</p>", "returnValue": "igzam3" },
+          { "option": "<p>extinguiSHER</p>", "returnValue": "igzam4" }
+        ],
+        "answer": "igzam1"
+      }
+    ]
+  },
+  {
+    "groupType": 12,
+    "instruction": "<p><b>For this question, the word incapital letters has the <i>emphatic stress</i>. Choose the option to which thegiven sentence relates.</b></p>",
+    "items": [
+      {
+        "order": 59,
+        "question": "Shela gave me a RECHARGEABLE fan.</p>",
+        "options": [
+          { "option": "<p>Who gave me a rechargeable fan?</p>", "returnValue": "igzam1" },
+          { "option": "<p>Did Shela lend me a rechargeable fan?</p>", "returnValue": "igzam2" },
+          { "option": "<p>Did Shela give me a ceiling fan?</p>", "returnValue": "igzam3" },
+          { "option": "<p>Did Shela give you a rechargeable fan?</p>", "returnValue": "igzam4" }
+        ],
+        "answer": "igzam1"
+      },
+      {
+        "order": 60,
+        "question": "My father likes PRAYING in the evenings.</p>",
+        "options": [
+          { "option": "<p>Who gave me a rechargeable fan?</p>", "returnValue": "igzam1" },
+          { "option": "<p>Did Shela lend me a rechargeable fan?</p>", "returnValue": "igzam2" },
+          { "option": "<p>Did Shela give me a ceiling fan?</p>", "returnValue": "igzam3" },
+          { "option": "<p>Did Shela give you a rechargeable fan?</p>", "returnValue": "igzam4" }
+        ],
+        "answer": "igzam1"
+      }
+    ]
+  }
+]

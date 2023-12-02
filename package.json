@@ -11,6 +11,7 @@
   "dependencies": {
     "adm-zip": "^0.5.10",
     "axios": "^1.6.2",
+    "bull": "^4.11.5",
     "cheerio": "^1.0.0-rc.12",
     "convertapi": "^1.13.0",
     "convertapi-js": "^1.0.8",

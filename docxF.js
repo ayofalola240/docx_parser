@@ -4,7 +4,7 @@ const mammoth = require('mammoth');
 const asyncfs = require('fs').promises;
 const cheerio = require('cheerio');
 const { DOMParser } = require('xmldom');
-const UOE = require('./UOE.js');
+// const UOE = require('./UOE.js');
 const axios = require('axios');
 const https = require('https');
 
@@ -60,23 +60,23 @@ module.exports = {
       // Get the modified HTML
       const modifiedHtml = $.html();
 
-      await asyncfs.writeFile(
-        path.join(__dirname, 'data/output', `modified.html`),
-        JSON.stringify(modifiedHtml),
-        'utf8',
-      );
+      // await asyncfs.writeFile(
+      //   path.join(__dirname, 'data/output', `modified.html`),
+      //   JSON.stringify(modifiedHtml),
+      //   'utf8',
+      // );
 
       const extractedText = await processJSON(modifiedHtml);
 
-      try {
-        // Create an array of promises for group and item requests
-        const requests = extractedText.map((item) => createGroupAndItems(baseUrl, item, authToken));
-        // Wait for all requests to complete
-        // await Promise.all(requests);
-        await queue.addAll(requests);
-      } catch (error) {
-        console.log(error);
-      }
+      // try {
+      //   // Create an array of promises for group and item requests
+      //   const requests = extractedText.map((item) => createGroupAndItems(baseUrl, item, authToken));
+      //   // Wait for all requests to complete
+      //   // await Promise.all(requests);
+      //   await queue.addAll(requests);
+      // } catch (error) {
+      //   console.log(error);
+      // }
 
       await asyncfs.writeFile(
         path.join(__dirname, 'data/output', `${FileName}.json`),
@@ -189,9 +189,10 @@ async function processQuestions(inputArray) {
     questionText = Object.values(questionObj)[0];
 
     // Check if the questionObj has keys containing 'PASSAGE'
-    const hasPassage = Object.keys(questionObj).some((key) =>
-      key.toLowerCase().includes('passage'),
+    const hasPassage = Object.keys(questionObj).some(
+      (key) => key.toLowerCase().includes('texte') || key.toLowerCase().includes('passage'),
     );
+
     // Initialize the passage variable
 
     // If the questionObj has keys containing 'PASSAGE', extract the passage text
@@ -209,23 +210,8 @@ async function processQuestions(inputArray) {
         console.log('Regex did not match for the following text:');
       }
     }
-    const questionsRegex = /<p>(\d+\.)\s*(.*?)<\/p>(?=<ol>)/gs;
-    const optionsRegex = /<ol>.*?<\/ol>/gs;
 
-    const matches = questionText.matchAll(questionsRegex);
-
-    let result = Array.from(matches, (match) => {
-      const question = match[0].replace(/<p><\/p>/g, '');
-
-      // Capture options using optionsRegex
-      const optionsMatch = questionText.match(optionsRegex);
-      const options = optionsMatch ? optionsMatch[0] : '';
-
-      return {
-        question,
-        options,
-      };
-    });
+    const result = processQuestionText(questionText);
 
     // Convert the result array to the desired format
     const formattedResult = {
@@ -267,7 +253,10 @@ function transformArray(inputArray) {
 
     return {
       groupType: Number(groupKey),
-      instruction: innerKey.toLowerCase().includes('passage') ? PASSAGES[innerKey] : innerKey,
+      instruction:
+        innerKey.toLowerCase().includes('texte') || innerKey.toLowerCase().includes('passage')
+          ? PASSAGES[innerKey]
+          : innerKey,
       items: itemQuestions,
     };
   });
@@ -281,44 +270,56 @@ function transformQuestions(questions) {
     // console.log(question.question);
     const modifiedQuestion = {
       order,
-      subject: UOE.id,
-      question: question.question,
+      // subject: UOE.id,
+      question: question.question.replace(/^<p>(\d+)\./, '').trim(),
       options: transformOptions(question.options),
       answer: 'igzam1',
     };
 
-    UOE.tos.forEach((topic) => {
-      topic.subTopics.forEach((subTopic) => {
-        if (order >= subTopic.start && order <= subTopic.end) {
-          modifiedQuestion.topic = topic.topic;
-          modifiedQuestion.topicIndex = topic.index;
-          modifiedQuestion.topicId = topic.id;
-          modifiedQuestion.subTopic = subTopic.title;
-          modifiedQuestion.subTopicId = subTopic.id;
-        }
-      });
-    });
+    // UOE.tos.forEach((topic) => {
+    //   topic.subTopics.forEach((subTopic) => {
+    //     if (order >= subTopic.start && order <= subTopic.end) {
+    //       modifiedQuestion.topic = topic.topic;
+    //       modifiedQuestion.topicIndex = topic.index;
+    //       modifiedQuestion.topicId = topic.id;
+    //       modifiedQuestion.subTopic = subTopic.title;
+    //       modifiedQuestion.subTopicId = subTopic.id;
+    //     }
+    //   });
+    // });
 
     return modifiedQuestion;
   });
 }
 
 function transformOptions(options) {
-  // Define a function to generate returnValue based on index
-  const generateReturnValue = (index) => `igzam${index + 1}`;
+  console.log(options);
 
-  // Extract options using a regular expression
-  const optionsRegex = /<li>([^<]+)<\/li>/g;
+  // Check if options is an array
+  if (Array.isArray(options)) {
+    const optionLetters = ['igzam1', 'igzam2', 'igzam3', 'igzam4'];
 
-  const optionsMatch = Array.from(options.matchAll(optionsRegex), (match) => match[1]);
+    return options.map((option, index) => ({
+      option: option.replace(/[A-D]\./, '').trim(),
+      returnValue: optionLetters[index],
+    }));
+  } else {
+    // Define a function to generate returnValue based on index
+    const generateReturnValue = (index) => `igzam${index + 1}`;
 
-  // Transform the options using the map function
-  const transformedOptions = optionsMatch.map((option, index) => ({
-    option: `<p>${option.replace(/\b\s+\b/g, ' ').trim()}</p>`,
-    returnValue: generateReturnValue(index),
-  }));
+    // Extract options using a regular expression
+    const optionsRegex = /<li>([^<]+)<\/li>/g;
 
-  return transformedOptions;
+    const optionsMatch = Array.from(options.matchAll(optionsRegex), (match) => match[1]);
+
+    // Transform the options using the map function
+    const transformedOptions = optionsMatch.map((option, index) => ({
+      option: `<p>${option.replace(/\b\s+\b/g, ' ').trim()}</p>`,
+      returnValue: generateReturnValue(index),
+    }));
+
+    return transformedOptions;
+  }
 }
 
 async function createGroupAndItems(baseUrl, sanitizedItem, authToken) {
@@ -393,3 +394,59 @@ const makeRequest = async (url, method, data, authToken) => {
     throw error;
   }
 };
+
+function processQuestionText(questionText) {
+  let questionsRegex, optionsRegex;
+
+  if (/(\d+\.)\s*(.*?)<\/p>(?=<ol>)/gs.test(questionText)) {
+    // Use the first set of regex patterns
+    questionsRegex = /<p>(\d+\.)\s*(.*?)<\/p>(?=<ol>)/gs;
+    optionsRegex = /<ol>.*?<\/ol>/gs;
+
+    const matches = questionText.matchAll(questionsRegex);
+
+    let result = Array.from(matches, (match) => {
+      const question = match[0].replace(/<p><\/p>/g, '');
+
+      // Capture options using optionsRegex
+      const optionsMatch = questionText.match(optionsRegex);
+      const options = optionsMatch ? optionsMatch[0] : '';
+
+      return {
+        question,
+        options,
+      };
+    });
+    return result;
+  } else {
+    const questionsRegex2 = /<p>(\d+\..*?)<\/p>/gs;
+    const optionsRegex2 = /<p>([A-Z]\..*?)<\/p>/gs;
+
+    const matches = Array.from(questionText.matchAll(questionsRegex2), (match) => match[1]);
+
+    let result = matches.map((match, i) => {
+      const question = `<p>${match.replace(/<p><\/p>/g, '')}</p>`;
+
+      let optionsMatches = [];
+      const nextMatchIndex =
+        i < matches.length - 1 ? questionText.indexOf(matches[i + 1]) : undefined;
+
+      const optionsText =
+        i < matches.length - 1
+          ? questionText.substring(questionText.indexOf(match), nextMatchIndex)
+          : questionText.substring(questionText.indexOf(match));
+
+      optionsMatches = Array.from(
+        optionsText.matchAll(optionsRegex2),
+        (optMatch) => `<p>${optMatch[1]}</p>`,
+      );
+
+      return {
+        question,
+        options: optionsMatches,
+      };
+    });
+
+    return result;
+  }
+}

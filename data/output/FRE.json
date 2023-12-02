@@ -1,0 +1,475 @@
+[
+  {
+    "groupType": 1,
+    "instruction": "<p><b>TEXTES DE COMPREHENSION</b></p><p><b><i>Lisezle texte ci-dessous et répondez aux questions qui suivent.</i></b></p><p><b>Texte I</b></p><p><b>Le football en Tunisie</b></p><p>Au mois de juillet l’année dernière, à l’occasion de la coupe dumonde de football, la Tunisie a trompé tous les prophètes en démontrant qu’elleavait bien sa place parmi les grands du football international.</p><p>Près d’un an après sa gloire en Argentine, le football tunisienest aujourd’hui en pleine crise. Et les gens disent qu’il sera difficile pource pays d’en sortir. Que s’est-il donc passé ? C’était d’abord le départ desmeilleurs joueurs et puis la retraite peu attendue de l’entraîneur. </p><p>Comment le public tunisien ne serait-il pas aujourd’hui frustré ?Tout d’un coup, le public a vu son football national passer de la gloire à laplus triste médiocrité : un bon exemple était le plus récent comportement del’équipe tunisienne face àl’équipe libyenne. Il était d’uneconséquence considérable. De même, l’opinion publique semblait suggérer quel’on n’a pas fait ce qu’il fallait pour retenir l’entraîneur.</p><p>Les joueurs sont partis parce qu’ils avaient voulu qu’on leurdonne une certaine liberté de pouvoir démontrer et mettre en meilleur profitleur talent. Quant à l’entraîneur, on peut dire qu’il a terminé sa carrièreparce qu’il voulait se retirer en pleine gloire. Et aujourd’hui, il a pris uneretraite prématurée dans sa bonne ville de Sousse, là où il avait fait sesdébuts de joueur.</p><p><i>Adapté de : Tunde Ajiboye, <u>Introduction to Practice in OralFrench </u>, Pp 44-45, 2003</i></p><p><i></i></p>",
+    "items": [
+      {
+        "order": 1,
+        "question": "Quelle était la cause de lacrise ? Les meilleurs joueurs</p>",
+        "options": [
+          { "option": "<p> ne sont pascontents. </p>", "returnValue": "igzam1" },
+          { "option": "<p> sont partis.</p>", "returnValue": "igzam2" },
+          { "option": "<p> ont été mis à la retraite.</p>", "returnValue": "igzam3" },
+          { "option": "<p> ont attaqué l’entraîneur.</p>", "returnValue": "igzam4" }
+        ],
+        "answer": "igzam1"
+      },
+      {
+        "order": 2,
+        "question": "Que faisait l’entraîneur àSousse ?</p>",
+        "options": [
+          { "option": "<p> Il s’y amusait.</p>", "returnValue": "igzam1" },
+          { "option": "<p> Il y passait sa retraite.</p>", "returnValue": "igzam2" },
+          { "option": "<p> Il s’y entraînait.</p>", "returnValue": "igzam3" },
+          { "option": "<p> Il y travaillait. </p>", "returnValue": "igzam4" }
+        ],
+        "answer": "igzam1"
+      },
+      {
+        "order": 3,
+        "question": "Au début, l’équipe tunisiennea trompé tout le monde parce qu’elle</p>",
+        "options": [
+          { "option": "<p> jouait très bien. </p>", "returnValue": "igzam1" },
+          { "option": "<p> jouait parmi les grands joueurs. </p>", "returnValue": "igzam2" },
+          { "option": "<p> ne jouait pas très bien.</p>", "returnValue": "igzam3" },
+          { "option": "<p> faisait partie de l’équipe mondiale.</p>", "returnValue": "igzam4" }
+        ],
+        "answer": "igzam1"
+      },
+      {
+        "order": 4,
+        "question": "La crise de l’équipetunisienne a commencé après </p>",
+        "options": [
+          { "option": "<p> la coupe du monde.</p>", "returnValue": "igzam1" },
+          { "option": "<p> son match avec la Libye.</p>", "returnValue": "igzam2" },
+          { "option": "<p> sa gloire en Argentine.</p>", "returnValue": "igzam3" },
+          { "option": "<p> sa gloire en Tunisie.</p>", "returnValue": "igzam4" }
+        ],
+        "answer": "igzam1"
+      },
+      {
+        "order": 5,
+        "question": "Selon le texte, l’équipetunisienne est dans un état de</p>",
+        "options": [
+          { "option": "<p> confusion.</p>", "returnValue": "igzam1" },
+          { "option": "<p> confiance.</p>", "returnValue": "igzam2" },
+          { "option": "<p> crise.</p>", "returnValue": "igzam3" },
+          { "option": "<p> succès.</p>", "returnValue": "igzam4" }
+        ],
+        "answer": "igzam1"
+      }
+    ]
+  },
+  {
+    "groupType": 2,
+    "instruction": "<p><b>Texte II</b></p><p><b>Une lettre d’invitation</b></p><p>Warri,le 20 mai 2016</p><p>Ma chère Michelle,</p><p>J’espère que tu te portes bien comme moi. Comment vont tes parents? J’espère que toute la famille va bien. Dieu merci de sa protection. Tu terappelles ma sœur ainée, Toju ? Elle vient d’entrer à l’université pour faireses études de langue française. Je te parle d’elle souvent sur Facebook. Elleaime beaucoup le français et elle veut devenir diplomate après ses études.</p><p>Je t’écris, en fait, pour t’inviter à passer les vacances d’étéchez nous. Une fête traditionnelle, annuelle, qui est vieille de cinquante ans,prendra une forme spéciale dans un mois.</p><p>Cette fête est célébrée par les jeunes aussi bien que par lesadultes. Elle dure sept jours pleins d’activités.Elle est aussidifférente d’autres fêtes parce qu’il n’y a aucune présence de mascarade,phénomène lié toujours aux fêtes traditionnelles en Afrique. Cette fête,appelée <i>Sengwa, </i>démontre la beauté et l’élégance de la femme itsekiri.J’espère que tu te rappelles que je viens de l’ethnie itsekiri. Chaque jour, dejeunes filles, bien habillées en pagnes de couleurs vives, avec des bijoux aucou, aux mains et aux chevilles, viennent au palais d’Olu, le roi, pour luirendre hommage. Elles se mettent à genoux trois fois devant lui.</p><p>Tous les jours, on danse à la musique jouée par un groupe demusiciens traditionnels. Il y a aussi beaucoup à manger, parce que c’estl’occasion de présenter nos cuisines traditionnelles, surtout la soupe <i>banga</i>au poisson frais, accompagnée de pâte d’amidon.</p><p>Michelle, mon amie, je sais que tu trouveras cette fête trèsintéressante, surtout quetu es en train de préparer une thèse surla culture africaine. J’espère que tu viendras parce que tout le monde chez moisouhaite te voir à cette fête annuelle. N’oublie pas d’apporter ta caméra pourpouvoir prendre des photos de souvenir.</p><p>J’attends ta réponse. Dis bonjour de ma part à toute la famille.</p><p>Amicalement,</p><p>Tuoyo.</p>",
+    "items": [
+      {
+        "order": 6,
+        "question": "Selon le texte, comments’appelle l’auteur de la lettre ?</p>",
+        "options": [
+          { "option": "<p> Toju.</p>", "returnValue": "igzam1" },
+          { "option": "<p> Tuoyo.</p>", "returnValue": "igzam2" },
+          { "option": "<p> Michelle.</p>", "returnValue": "igzam3" },
+          { "option": "<p> Olu.</p>", "returnValue": "igzam4" }
+        ],
+        "answer": "igzam1"
+      },
+      {
+        "order": 7,
+        "question": "Dans le texte, il s’agitprincipalement</p>",
+        "options": [
+          { "option": "<p> de l’invitation à Michelle.</p>", "returnValue": "igzam1" },
+          { "option": "<p> de la fête <i>Sengwa</i>.</p>", "returnValue": "igzam2" },
+          { "option": "<p> des études de Toju.</p>", "returnValue": "igzam3" },
+          { "option": "<p> de la thèse de Michelle.</p>", "returnValue": "igzam4" }
+        ],
+        "answer": "igzam1"
+      },
+      {
+        "order": 8,
+        "question": "La fête <i>Sengwa</i> estspéciale parce qu’elle </p>",
+        "options": [
+          { "option": "<p> est pleine d’activités.</p>", "returnValue": "igzam1" },
+          {
+            "option": "<p> est célébrée par des jeunes filles seulement. </p>",
+            "returnValue": "igzam2"
+          },
+          { "option": "<p> est célébrée par des adultes seulement. </p>", "returnValue": "igzam3" },
+          { "option": "<p> n’a aucune présence de mascarade.</p>", "returnValue": "igzam4" }
+        ],
+        "answer": "igzam1"
+      },
+      {
+        "order": 9,
+        "question": "Pourquoi Michelle doit-elleassister à la fête ?</p>",
+        "options": [
+          { "option": "<p> Elle s’intéresse à la culture africaine.</p>", "returnValue": "igzam1" },
+          { "option": "<p> Elle est l’amie de Tuoyo.</p>", "returnValue": "igzam2" },
+          { "option": "<p> Elle veut voir Olu.</p>", "returnValue": "igzam3" },
+          { "option": "<p> Elle veut manger la soupe<i>banga</i>.</p>", "returnValue": "igzam4" }
+        ],
+        "answer": "igzam1"
+      },
+      {
+        "order": 10,
+        "question": "D’après le texte, <i>Sengwa</i>est le nom de la</p>",
+        "options": [
+          { "option": "<p> musique.</p>", "returnValue": "igzam1" },
+          { "option": "<p> fête.</p>", "returnValue": "igzam2" },
+          { "option": "<p> recette traditionnelle.</p>", "returnValue": "igzam3" },
+          { "option": "<p> danse. </p>", "returnValue": "igzam4" }
+        ],
+        "answer": "igzam1"
+      }
+    ]
+  },
+  {
+    "groupType": 3,
+    "instruction": "<p><b><i>Questions sur la grammaire et la structure.</i></b></p>",
+    "items": [
+      {
+        "order": 11,
+        "question": "Madame Tunde … un stylo.</p>",
+        "options": [
+          { "option": "<p> m’a donner </p>", "returnValue": "igzam1" },
+          { "option": "<p> m’a donné</p>", "returnValue": "igzam2" },
+          { "option": "<p> donné</p>", "returnValue": "igzam3" },
+          { "option": "<p> donner</p>", "returnValue": "igzam4" }
+        ],
+        "answer": "igzam1"
+      },
+      {
+        "order": 12,
+        "question": "On achète un timbre</p>",
+        "options": [
+          { "option": "<p> à l’hôpital.</p>", "returnValue": "igzam1" },
+          { "option": "<p> à l’hôtel.</p>", "returnValue": "igzam2" },
+          { "option": "<p> au restaurant.</p>", "returnValue": "igzam3" },
+          { "option": "<p> à la poste.</p>", "returnValue": "igzam4" }
+        ],
+        "answer": "igzam1"
+      },
+      {
+        "order": 13,
+        "question": "Les gratte-ciel sont</p>",
+        "options": [
+          { "option": "<p> des maisons.</p>", "returnValue": "igzam1" },
+          { "option": "<p> des arbres.</p>", "returnValue": "igzam2" },
+          { "option": "<p> des cailloux.</p>", "returnValue": "igzam3" },
+          { "option": "<p> au ciel.</p>", "returnValue": "igzam4" }
+        ],
+        "answer": "igzam1"
+      },
+      {
+        "order": 14,
+        "question": "J’y serai ... midi.</p>",
+        "options": [
+          { "option": "<p> sur</p>", "returnValue": "igzam1" },
+          { "option": "<p> sous</p>", "returnValue": "igzam2" },
+          { "option": "<p> avant</p>", "returnValue": "igzam3" },
+          { "option": "<p> de</p>", "returnValue": "igzam4" }
+        ],
+        "answer": "igzam1"
+      },
+      {
+        "order": 15,
+        "question": "Qu’est-ce qu’on présente … latélé ce soir ?</p>",
+        "options": [
+          { "option": "<p> dans</p>", "returnValue": "igzam1" },
+          { "option": "<p> sur</p>", "returnValue": "igzam2" },
+          { "option": "<p> à</p>", "returnValue": "igzam3" },
+          { "option": "<p> dedans</p>", "returnValue": "igzam4" }
+        ],
+        "answer": "igzam1"
+      },
+      {
+        "order": 16,
+        "question": "Nous venons … boulangerie.</p>",
+        "options": [
+          { "option": "<p> de l’</p>", "returnValue": "igzam1" },
+          { "option": "<p> du</p>", "returnValue": "igzam2" },
+          { "option": "<p> de la</p>", "returnValue": "igzam3" },
+          { "option": "<p> des</p>", "returnValue": "igzam4" }
+        ],
+        "answer": "igzam1"
+      },
+      {
+        "order": 17,
+        "question": "Donnez-moi le stylo … lelivre.</p>",
+        "options": [
+          { "option": "<p> mais</p>", "returnValue": "igzam1" },
+          { "option": "<p> dont</p>", "returnValue": "igzam2" },
+          { "option": "<p> ou</p>", "returnValue": "igzam3" },
+          { "option": "<p> car</p>", "returnValue": "igzam4" }
+        ],
+        "answer": "igzam1"
+      },
+      {
+        "order": 18,
+        "question": "Umar, prend … livre.</p>",
+        "options": [
+          { "option": "<p> cette </p>", "returnValue": "igzam1" },
+          { "option": "<p> ces</p>", "returnValue": "igzam2" },
+          { "option": "<p> celui</p>", "returnValue": "igzam3" },
+          { "option": "<p> ce</p>", "returnValue": "igzam4" }
+        ],
+        "answer": "igzam1"
+      },
+      {
+        "order": 19,
+        "question": "Il est malade ; … il estabsent.</p>",
+        "options": [
+          { "option": "<p> dès</p>", "returnValue": "igzam1" },
+          { "option": "<p> par</p>", "returnValue": "igzam2" },
+          { "option": "<p> donc</p>", "returnValue": "igzam3" },
+          { "option": "<p> pour</p>", "returnValue": "igzam4" }
+        ],
+        "answer": "igzam1"
+      },
+      {
+        "order": 20,
+        "question": "Les deux belles femmes, je lesai … derrière moi.</p>",
+        "options": [
+          { "option": "<p> vues</p>", "returnValue": "igzam1" },
+          { "option": "<p> vue</p>", "returnValue": "igzam2" },
+          { "option": "<p> vus</p>", "returnValue": "igzam3" },
+          { "option": "<p> vu</p>", "returnValue": "igzam4" }
+        ],
+        "answer": "igzam1"
+      },
+      {
+        "order": 21,
+        "question": "Mon petit frère ne peut passupporter cette chaleur. Donc il</p>",
+        "options": [
+          { "option": "<p> la tolère.</p>", "returnValue": "igzam1" },
+          { "option": "<p> ne la tolère pas.</p>", "returnValue": "igzam2" },
+          { "option": "<p> la tolère beaucoup.</p>", "returnValue": "igzam3" },
+          { "option": "<p> ne la sent pas.</p>", "returnValue": "igzam4" }
+        ],
+        "answer": "igzam1"
+      },
+      {
+        "order": 22,
+        "question": "La fille de Maryam est venueici pour … sa grand-mère.</p>",
+        "options": [
+          { "option": "<p> aider.</p>", "returnValue": "igzam1" },
+          { "option": "<p> aide.</p>", "returnValue": "igzam2" },
+          { "option": "<p> aidé.</p>", "returnValue": "igzam3" },
+          { "option": "<p> aidera.</p>", "returnValue": "igzam4" }
+        ],
+        "answer": "igzam1"
+      },
+      {
+        "order": 23,
+        "question": "Ce personnage est très <i>frauduleux</i>,veut dire qu’il est</p>",
+        "options": [
+          { "option": "<p> sincère.</p>", "returnValue": "igzam1" },
+          { "option": "<p> malhonnête.</p>", "returnValue": "igzam2" },
+          { "option": "<p> compromettant.</p>", "returnValue": "igzam3" },
+          { "option": "<p> suspect.</p>", "returnValue": "igzam4" }
+        ],
+        "answer": "igzam1"
+      },
+      {
+        "order": 24,
+        "question": "Laura est la vedette du film,veut dire :</p>",
+        "options": [
+          { "option": "<p> le dernier personnage.</p>", "returnValue": "igzam1" },
+          { "option": "<p> la directrice du film.</p>", "returnValue": "igzam2" },
+          { "option": "<p> le principal personnage.</p>", "returnValue": "igzam3" },
+          { "option": "<p> le plus beau personnage.</p>", "returnValue": "igzam4" }
+        ],
+        "answer": "igzam1"
+      },
+      {
+        "order": 25,
+        "question": "La dérivation adverbiale dumot <i>innocent</i> est</p>",
+        "options": [
+          { "option": "<p> innocentement.</p>", "returnValue": "igzam1" },
+          { "option": "<p> innocents.</p>", "returnValue": "igzam2" },
+          { "option": "<p> innocentes.</p>", "returnValue": "igzam3" },
+          { "option": "<p> innocemment.</p>", "returnValue": "igzam4" }
+        ],
+        "answer": "igzam1"
+      },
+      {
+        "order": 26,
+        "question": "Nous avons … les stylos.</p>",
+        "options": [
+          { "option": "<p> trouvé</p>", "returnValue": "igzam1" },
+          { "option": "<p> trouvés</p>", "returnValue": "igzam2" },
+          { "option": "<p> trouvez</p>", "returnValue": "igzam3" },
+          { "option": "<p> trouver</p>", "returnValue": "igzam4" }
+        ],
+        "answer": "igzam1"
+      },
+      {
+        "order": 27,
+        "question": "Pour aider Halima à préparerla fête, mes sœurs sont venues</p>",
+        "options": [
+          { "option": "<p> d’elles-mêmes.</p>", "returnValue": "igzam1" },
+          { "option": "<p> d’eux-mêmes.</p>", "returnValue": "igzam2" },
+          { "option": "<p> d’elle-même.</p>", "returnValue": "igzam3" },
+          { "option": "<p> de même.</p>", "returnValue": "igzam4" }
+        ],
+        "answer": "igzam1"
+      },
+      {
+        "order": 28,
+        "question": "Où est l’horloge? Elle est …la télévision.</p>",
+        "options": [
+          { "option": "<p> au milieu de</p>", "returnValue": "igzam1" },
+          { "option": "<p> à côté de</p>", "returnValue": "igzam2" },
+          { "option": "<p> par-devant</p>", "returnValue": "igzam3" },
+          { "option": "<p> au-delà</p>", "returnValue": "igzam4" }
+        ],
+        "answer": "igzam1"
+      },
+      {
+        "order": 29,
+        "question": "Quel est l’ordre normal ?</p>",
+        "options": [
+          { "option": "<p> Phillipe aime beaucoup Marie.</p>", "returnValue": "igzam1" },
+          { "option": "<p> Marie beaucoup aime Phillipe.</p>", "returnValue": "igzam2" },
+          { "option": "<p> Phillipe beaucoup aime Marie.</p>", "returnValue": "igzam3" },
+          { "option": "<p> Beaucoup Phillipe aime Marie.</p>", "returnValue": "igzam4" }
+        ],
+        "answer": "igzam1"
+      },
+      {
+        "order": 30,
+        "question": "Saheed est … de sa promotion.</p>",
+        "options": [
+          { "option": "<p> la meilleur</p>", "returnValue": "igzam1" },
+          { "option": "<p> le meilleur</p>", "returnValue": "igzam2" },
+          { "option": "<p> les meilleurs</p>", "returnValue": "igzam3" },
+          { "option": "<p> les meilleures</p>", "returnValue": "igzam4" }
+        ],
+        "answer": "igzam1"
+      }
+    ]
+  },
+  {
+    "groupType": 4,
+    "instruction": "<p><b><i>Questions sur l’oral.</i></b></p>",
+    "items": [
+      {
+        "order": 31,
+        "question": "Quelle est la syllabationcorrecte du mot <i>réclamer</i>?</p>",
+        "options": [
+          { "option": "<p> ré/cla/me/r.</p>", "returnValue": "igzam1" },
+          { "option": "<p> ré/cla/mer.</p>", "returnValue": "igzam2" },
+          { "option": "<p> récla/mer.</p>", "returnValue": "igzam3" },
+          { "option": "<p> réc/lamer.</p>", "returnValue": "igzam4" }
+        ],
+        "answer": "igzam1"
+      },
+      {
+        "order": 32,
+        "question": "Dans lequel des mots suivantsexiste le son/ ɲ / ?</p>",
+        "options": [
+          { "option": "<p> Age.</p>", "returnValue": "igzam1" },
+          { "option": "<p> Agneau.</p>", "returnValue": "igzam2" },
+          { "option": "<p> Ange.</p>", "returnValue": "igzam3" },
+          { "option": "<p> Garage.</p>", "returnValue": "igzam4" }
+        ],
+        "answer": "igzam1"
+      },
+      {
+        "order": 33,
+        "question": "Le son /i/ est prononcé dansle mot :</p>",
+        "options": [
+          { "option": "<p> moi.</p>", "returnValue": "igzam1" },
+          { "option": "<p> mai.</p>", "returnValue": "igzam2" },
+          { "option": "<p> raide.</p>", "returnValue": "igzam3" },
+          { "option": "<p> stylo.</p>", "returnValue": "igzam4" }
+        ],
+        "answer": "igzam1"
+      },
+      {
+        "order": 34,
+        "question": "Quelle option se prononcecomme <i>fête</i>?</p>",
+        "options": [
+          { "option": "<p> Ferme.</p>", "returnValue": "igzam1" },
+          { "option": "<p> Fesse. </p>", "returnValue": "igzam2" },
+          { "option": "<p> Faites.</p>", "returnValue": "igzam3" },
+          { "option": "<p> Fait.</p>", "returnValue": "igzam4" }
+        ],
+        "answer": "igzam1"
+      },
+      {
+        "order": 35,
+        "question": "Le son du mot <i>chercher</i>s’écrit comme</p>",
+        "options": [
+          { "option": "<p> [sεRsε ].</p>", "returnValue": "igzam1" },
+          { "option": "<p> [ sεRsə ].</p>", "returnValue": "igzam2" },
+          { "option": "<p> [ ʃεRʃe].</p>", "returnValue": "igzam3" },
+          { "option": "<p> [ ʃæRʃε].</p>", "returnValue": "igzam4" }
+        ],
+        "answer": "igzam1"
+      }
+    ]
+  },
+  {
+    "groupType": 5,
+    "instruction": "<p><b>Questions sur la culture et la civilisation.</b></p>",
+    "items": [
+      {
+        "order": 36,
+        "question": "Quel pays a gagné la couped’Europe en 2016 ? </p>",
+        "options": [
+          { "option": "<p> Le Wales.</p>", "returnValue": "igzam1" },
+          { "option": "<p> La France.</p>", "returnValue": "igzam2" },
+          { "option": "<p> Le Portugal.</p>", "returnValue": "igzam3" },
+          { "option": "<p> La Belgique.</p>", "returnValue": "igzam4" }
+        ],
+        "answer": "igzam1"
+      },
+      {
+        "order": 37,
+        "question": "Lequel des suivants est unbureau administratif dans un</p>",
+        "options": [
+          { "option": "<p> La librairie.</p>", "returnValue": "igzam1" },
+          { "option": "<p> Le cinéma.</p>", "returnValue": "igzam2" },
+          { "option": "<p> La mairie.</p>", "returnValue": "igzam3" },
+          { "option": "<p> L’agence de voyage.</p>", "returnValue": "igzam4" }
+        ],
+        "answer": "igzam1"
+      },
+      {
+        "order": 38,
+        "question": "La fête nationale de la Franceest marquée</p>",
+        "options": [
+          { "option": "<p> le 14 juillet.</p>", "returnValue": "igzam1" },
+          { "option": "<p> le 14 août.</p>", "returnValue": "igzam2" },
+          { "option": "<p> le 14 janvier.</p>", "returnValue": "igzam3" },
+          { "option": "<p> le 14 février.</p>", "returnValue": "igzam4" }
+        ],
+        "answer": "igzam1"
+      },
+      {
+        "order": 39,
+        "question": "La baguette, c’est le nomfrançais d’un type de</p>",
+        "options": [
+          { "option": "<p> fruit.</p>", "returnValue": "igzam1" },
+          { "option": "<p> pain.</p>", "returnValue": "igzam2" },
+          { "option": "<p> recette.</p>", "returnValue": "igzam3" },
+          { "option": "<p> vin.</p>", "returnValue": "igzam4" }
+        ],
+        "answer": "igzam1"
+      },
+      {
+        "order": 40,
+        "question": "L’UA veut dire :</p>",
+        "options": [
+          { "option": "<p> L’Unité Africaine.</p>", "returnValue": "igzam1" },
+          { "option": "<p> L’Université Africaine.</p>", "returnValue": "igzam2" },
+          { "option": "<p> L’Union de l’Afrique.</p>", "returnValue": "igzam3" },
+          { "option": "<p> L’Union Africaine.</p>", "returnValue": "igzam4" }
+        ],
+        "answer": "igzam1"
+      }
+    ]
+  }
+]
